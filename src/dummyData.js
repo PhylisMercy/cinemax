@@ -93,7 +93,7 @@ export const latest = [
   },
   {
     id: 2,
-    cover: "../images/upcome/u7.jpg",
+    cover: "../images/upcome/u7.png",
     name: "Barbie",
     time: "2hr : 38mins",
   },
@@ -159,31 +159,31 @@ export const recommended = [
   {
     id: 4,
     cover: "../images/rec/rec1.jpg",
-    name: "One Man Army",
+    name: "Heart of Stone",
     time: "2hr : 38mins",
   },
   {
     id: 5,
-    cover: "../images/rec/rec2.jpg",
-    name: "Jumbo Queen",
+    cover: "../images/rec/rec2.png",
+    name: "Barbie",
     time: "2hr : 38mins",
   },
   {
     id: 1,
     cover: "../images/rec/rec3.jpg",
-    name: "Zombie Island",
+    name: "Ballerina",
     time: "2hr : 38mins",
   },
   {
     id: 2,
     cover: "../images/rec/rec4.jpg",
-    name: "Shadow",
+    name: "Sick of Myself",
     time: "2hr : 38mins",
   },
   {
     id: 3,
-    cover: "../images/upcome/u3.jpg",
-    name: "Another Danger",
+    cover: "../images/rec/u3.jpg",
+    name: "Radical",
     time: "2hr : 38mins",
   },
 ]
