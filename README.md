@@ -6,3 +6,5 @@
 # Project Demo
 
 
+# Deployed Link
+https://cinemax-movie.netlify.app/
